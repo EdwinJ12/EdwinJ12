@@ -9,7 +9,7 @@ Hi, I’m Edwin J, an aspiring **Backend Developer** with a strong foundation in
 ## 🛠️ Skills & Tech Stack
 
 ### Programming Languages
-![Java](https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Backend
@@ -25,6 +25,7 @@ Hi, I’m Edwin J, an aspiring **Backend Developer** with a strong foundation in
 - Data Structures & Algorithms (DSA)
 - Linked Lists, Stacks, Queues, Trees, Graphs
 - REST API Development
+
 
 ---
 
