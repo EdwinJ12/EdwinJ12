@@ -24,7 +24,7 @@ A comprehensive collection of all **Data Structures and Algorithms** implemented
 
 ### 2️⃣ Student Management REST API (Spring Boot)
 A simple **REST API** to manage student data — perform CRUD operations using Spring Boot and MongoDB.  
-🔗 [Repo Link - To be added]
+🔗 [Repo Link - https://github.com/EdwinJ12/StudentDB]
 
 ### 3️⃣ Task Manager Backend (Spring Boot)
 A backend service that allows users to create, update, delete, and view tasks. It uses **Spring Boot**, **MongoDB**, and follows clean REST conventions.  
