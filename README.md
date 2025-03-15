@@ -1,4 +1,4 @@
-# 🎼 Edwin J - Backend Developer & DSA Enthusiast
+# ✨ Edwin J - Backend Developer & DSA Enthusiast
 
 ## 🚀 About Me
 
