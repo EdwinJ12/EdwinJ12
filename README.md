@@ -34,8 +34,8 @@ A backend service that allows users to create, update, delete, and view tasks. I
 
 ## 🌐 How to Reach Me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn URL]
+- **Email:** [edwinjosephej007@gmail.com]
+- **LinkedIn:** [https://in.linkedin.com/in/edwinj12]
 - **GitHub:** [https://github.com/EdwinJ12](https://github.com/EdwinJ12)
 
 ---
